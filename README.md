@@ -1,4 +1,4 @@
-### hey! meu nome é Giovanni Caramello Grego 👋
+### Giovanni Caramello Grego 
 
 
 - 🔭 ETEC MCM
