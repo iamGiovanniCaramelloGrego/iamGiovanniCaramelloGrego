@@ -20,5 +20,7 @@
  	
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![iamGiovanniCaramelloGrego's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamGiovanniCaramelloGrego&hide_border=true&theme=github-light)
+
  
 </div>
