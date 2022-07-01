@@ -6,6 +6,12 @@
 - 🤔 0% MENTAL HEALTH
 - 📫 @SUICIDEMELLO
 
+<br>
+<div align="center">
+  <img width="70%" src="https://github.com/iamGiovanniCaramelloGrego/iamGiovanniCaramelloGrego/blob/main/METAL.gif">
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/iamGiovanniCaramelloGrego">
