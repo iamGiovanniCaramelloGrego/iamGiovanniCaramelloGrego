@@ -1,11 +1,11 @@
-<h2 align="center">WELCOME TO HELL</h2>
+<h2 align="center">:skull:WELCOME TO HELL :skull:</h2>
 
 
 -   ETEC MCM
 -   T.I
 -   0% MENTAL HEALTH
 -   @SUICIDEMELLO
--   :skull:
+-   
 
 <br>
 <div align="center">
