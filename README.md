@@ -5,7 +5,7 @@
 - 🌱 T.I
 - 🤔 0% MENTAL HEALTH
 - 📫 @SUICIDEMELLO
-- ⚡ 
+
 
 <div align="center">
   <a href="https://github.com/iamGiovanniCaramelloGrego">
