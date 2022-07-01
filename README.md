@@ -1,11 +1,11 @@
-### Giovanni Caramello Grego 
+### MELLO!
 
 
 - 🔭 ETEC MCM
 - 🌱 T.I
-- 🤔 0 MENTAL HEALTH
+- 🤔 0% MENTAL HEALTH
 - 📫 @SUICIDEMELLO
-- ⚡ BOLA NA TRAVE NAO ALTERA O PLACAR
+- ⚡ 
 
 <div align="center">
   <a href="https://github.com/iamGiovanniCaramelloGrego">
