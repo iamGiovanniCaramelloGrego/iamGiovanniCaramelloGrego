@@ -3,8 +3,6 @@
 
 -   ETEC MCM
 -   T.I
--   0% MENTAL HEALTH
--   @SUICIDEMELLO
 
 <br>
 <div align="center">
