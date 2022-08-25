@@ -20,7 +20,7 @@
   ![iamGiovanniCaramelloGrego's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamGiovanniCaramelloGrego&hide_border=true&theme=github-light)
 <div> 
   
-  <a href="https://instagram.com/suicidemello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
  	<a href = "mailto:giovannicaramello@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
   ![Snake animation](https://github.com/iamGiovanniCaramelloGrego/iamGiovanniCaramelloGrego/blob/output/github-contribution-grid-snake.svg)
 
