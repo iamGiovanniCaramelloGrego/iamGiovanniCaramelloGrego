@@ -23,9 +23,5 @@
   
  	<a href = "mailto:giovannicaramello@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
   ![Snake animation](https://github.com/iamGiovanniCaramelloGrego/iamGiovanniCaramelloGrego/blob/output/github-contribution-grid-snake.svg)
-  <div>
-  
-  https://github.com/iamGiovanniCaramelloGrego/iamGiovanniCaramelloGrego/blob/main/iamGiovanniCaramelloGrego-2021.stl
-  </div>
-  
+
 
