@@ -19,7 +19,8 @@
  
   ![iamGiovanniCaramelloGrego's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamGiovanniCaramelloGrego&hide_border=true&theme=github-light)
 <div> 
-  
+
+  ![](./profile-3d-contrib/profile-night-green.svg)
   
  	
   ![Snake animation](https://github.com/iamGiovanniCaramelloGrego/iamGiovanniCaramelloGrego/blob/output/github-contribution-grid-snake.svg)
