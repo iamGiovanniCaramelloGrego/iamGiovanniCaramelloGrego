@@ -1,7 +1,7 @@
-<h2 align="center">:skull:WELCOME TO HELL :skull:</h2>
+<h2 align="center"> WELCOME TO HELL </h2>
 
 
--   ETEC MCM
+-   ETEC
 -   T.I
 
 <br>
