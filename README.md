@@ -1,4 +1,4 @@
-<h2 align="center"> WELCOME TO HELL </h2>
+<h2 align="center"> WELCOME </h2>
 
 
 -   ETEC
