@@ -1,7 +1,7 @@
 <h2 align="center"> WELCOME </h2>
 
 
--   ETEC MCM
+-   ETEC MCM - T.I
 -   HOOPER!
 -   17Y
 
