@@ -14,8 +14,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamGiovanniCaramelloGrego&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-  ![iamGiovanniCaramelloGrego's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamGiovanniCaramelloGrego&hide_border=true&theme=github-light)
-<div> 
 
   ![](./profile-3d-contrib/profile-night-green.svg)
   
