@@ -18,6 +18,3 @@
 
   
  	
-  ![Snake animation](https://github.com/iamGiovanniCaramelloGrego/iamGiovanniCaramelloGrego/blob/output/github-contribution-grid-snake.svg)
-
-
