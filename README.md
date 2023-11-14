@@ -1,13 +1,10 @@
 <h2 align="center"> WELCOME </h2>
 
 
--   ETEC
--   T.I
+-   ETEC MCM
+-   HOOPER!
+-   17Y
 
-<br>
-<div align="center">
-  <img width="70%" src="https://github.com/iamGiovanniCaramelloGrego/iamGiovanniCaramelloGrego/blob/main/METAL.gif">
-</div>
 
 <br>
 
