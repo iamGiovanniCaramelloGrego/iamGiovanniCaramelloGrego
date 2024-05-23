@@ -1,0 +1,25 @@
+.imagem{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 5px;
+}
+
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-family: monospace;
+    padding-right: 50px;
+}
+
+
+
+    
+
+
+
+    
