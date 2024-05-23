@@ -1,7 +1,7 @@
 .imagem{
     display: grid;
     grid-template-columns: auto auto auto;
-    gap: 5px;
+    gap: 3px;
 }
 
 body{
@@ -9,12 +9,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: linear-gradient(to right, darkblue, violet);
 }
 h1{
     text-align: center;
     font-family: monospace;
     padding-right: 50px;
 }
+
+
 
 
 
